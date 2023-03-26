@@ -18,3 +18,5 @@ This repo contains hardware circuit digram, pictures and SDK for PY32 MCU
 
 ![PY32F002_TSSOP20](PY32F002_TSSOP20_DEV_KIT_PIC.png)
 
+Examble code and toolchain download can be found here: __[Project tempate and user guide](https://github.com/TDLOGY/py32f0-template-project/)__
+
