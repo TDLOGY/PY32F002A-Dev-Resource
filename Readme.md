@@ -1,4 +1,12 @@
 # PY32 Development Resource
+---
+__Easy buy online at our store here :)__
+
+- __[Development kit for SSOP10 package](https://linhkienthuduc.com/kit-phat-trien-py32f002-tssop20-ho-tro-lap-trinh-arm-cortex-m0)__ - Development board for package SSOP10
+- __[Development kit for TSSOP20 package](https://linhkienthuduc.com/kit-phat-trien-py32f002-ssop10-ho-tro-lap-trinh-arm-cortex-m0)__ - Development board for package TSSOP20
+- __[MCU TSSOP20 package](https://linhkienthuduc.com/kit-phat-trien-py32f002-tssop20-ho-tro-lap-trinh-arm-cortex-m0)__ - PY32F002AF15P6TU package TSSOP20
+- __[MCU TSSOP20 package](https://linhkienthuduc.com/py32f002aa15m6tu-essop-10-vi-dieu-khien-32bit-arm-cortex-m0-mcu)__ - PY32F002AA15M6TU package SSOP10
+
 
 This repo contains hardware circuit digram, pictures and SDK for PY32 MCU
 
@@ -10,5 +18,3 @@ This repo contains hardware circuit digram, pictures and SDK for PY32 MCU
 
 ![PY32F002_TSSOP20](PY32F002_TSSOP20_DEV_KIT_PIC.png)
 
-Link to buy:
-https://linhkienthuduc.com/product/search?search=PY32
