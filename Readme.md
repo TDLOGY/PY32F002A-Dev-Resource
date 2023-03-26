@@ -1,6 +1,14 @@
 # PY32 Development Resource
 
-SDK: Contain template project and Libraries
+This repo contains hardware circuit digram, pictures and SDK for PY32 MCU
 
-![Alt text](./PY32F002_SSOP10_DEV_KIT_PIC.jpg "Optional title")
-![My Image](PY32F002_SSOP10_DEV_KIT_PIC.png)
+**PY32F002_SSOP10**
+
+![PY32F002_SSOP10](PY32F002_SSOP10_DEV_KIT_PIC.png)
+
+**PY32F002_TSSOP20**
+
+![PY32F002_TSSOP20](PY32F002_TSSOP20_DEV_KIT_PIC.png)
+
+Link to buy:
+https://linhkienthuduc.com/product/search?search=PY32
