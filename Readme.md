@@ -10,6 +10,9 @@ __Easy buy online at Linh Kiện Thủ Đức store here :)__
 
 Examble code and toolchain download can be found here: __[Project tempate and user guide: https://github.com/TDLOGY/py32f0-template-project/](https://github.com/TDLOGY/py32f0-template-project/)__
 
+Video tutorial: https://youtu.be/IC3xxbm428A
+- __[https://youtu.be/IC3xxbm428A](https://youtu.be/IC3xxbm428A)__ - Set up environment for programing and debugging.
+
 This repo contains hardware circuit digram, pictures and SDK for PY32 MCU
 
 **PY32F002_SSOP10**
