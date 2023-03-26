@@ -1,6 +1,6 @@
 # PY32 Development Resource
 ---
-__Easy buy online at our store here :)__
+__Easy buy online at Linh Kiện Thủ Đức store here :)__
 
 - __[Development kit for SSOP10 package](https://linhkienthuduc.com/kit-phat-trien-py32f002-tssop20-ho-tro-lap-trinh-arm-cortex-m0)__ - Development board for package SSOP10
 - __[Development kit for TSSOP20 package](https://linhkienthuduc.com/kit-phat-trien-py32f002-ssop10-ho-tro-lap-trinh-arm-cortex-m0)__ - Development board for package TSSOP20
