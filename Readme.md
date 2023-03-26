@@ -1,27 +1,6 @@
----
-__Advertisement :)__
+# PY32 Development Resource
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+SDK: Contain template project and Libraries
 
-You will like those projects!
-
----
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
+![Alt text](./PY32F002_SSOP10_DEV_KIT_PIC.jpg "Optional title")
+![My Image](PY32F002_SSOP10_DEV_KIT_PIC.png)
